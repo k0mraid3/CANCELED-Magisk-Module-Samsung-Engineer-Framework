@@ -3,4 +3,4 @@ This Magisk Module will attempt to add missing engineering/combination framework
 Project Not yet started. Est start sometime in aug. 
 
 
-Due to 2FA bs here, i will be moving this and all other repos to a better platform. Will update soon. 
+ Will update in the coming months, have had to keep pushing this back due to other projects. 
